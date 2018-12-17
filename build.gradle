@@ -43,5 +43,4 @@ launch4j {
 	 outfile = 'TestMain.exe'
  
   mainClassName = 'SwingDemo.java'
-  icon = "${projectDir}/android.png"
 }
